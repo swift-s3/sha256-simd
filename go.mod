@@ -1,6 +1,6 @@
-module github.com/minio/sha256-simd
+module github.com/swift-s3/sha256-simd
 
-go 1.17
+go 1.22
 
 require github.com/klauspost/cpuid/v2 v2.2.3
 
